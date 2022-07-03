@@ -1,8 +1,8 @@
 # Disney Hotstar UI Clone
 
-Hotstar-Disney+ UI clone using ReactJS
+Hotstar-Disney+ UI clone using HTML,CSS,BootStrap,ReactJS
 
-Most Simple Project you can do when ypu start studying ReactJS.It is only made using ReactJS.
+Most Simple Project you can do when ypu start studying ReactJS.It is only made using HTML, CSS, BootStrap, ReactJS.
 
 ## Installation
 

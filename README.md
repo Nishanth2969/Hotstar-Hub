@@ -2,7 +2,7 @@
 
 This project was bootstrapped with Create React App.
 
-Most Simple Project you can do when ypu start studying ReactJS.It is only made using HTML, CSS, BootStrap, ReactJS.
+Most Simple Project you can do when you start studying ReactJS. It is only made using HTML, CSS, BootStrap, ReactJS.
 
 ## Website link
 

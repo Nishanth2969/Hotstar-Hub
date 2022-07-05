@@ -1,4 +1,4 @@
-# Disney Hotstar UI Clone
+# Disney+ Hotstar UI Clone
 
 This project was bootstrapped with Create React App.
 
